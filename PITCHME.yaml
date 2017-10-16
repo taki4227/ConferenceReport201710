@@ -5,7 +5,7 @@ theme : night
 #background : assets/bg.png
 
 #Logo Setting
-logo : assets/logo.png
+#logo : assets/logo.png
 
 #Slide Number Setting
 slide-number: true
@@ -18,7 +18,7 @@ slide-number: true
 #highlight : mono-blue
 
 #Mouse Wheel Setting
-mousewheel : true
+#mousewheel : true
 
 #Transition Setting(遷移時のアクション。convex, concave, default, fade, none, slide, zoom が設定可)
 transition : fade
