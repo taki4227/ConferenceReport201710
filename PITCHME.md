@@ -1,4 +1,3 @@
-@title[こんなカンファレンス行ってきました]
 ### こんなカンファレンス行きました
 〜2017/10〜
 　  
@@ -6,6 +5,16 @@
 　  
 　  
 　  
-　　　　　　Naoki Takimoto
+　　　　　　　　Naoki Takimoto
 ---
+### 行ったカンファレンス
+
+* DevFest Tokyo 2017
+* Android Bazaar and Conference 2017 Autumn  （ABC 2017 Autumn）
+
+---
+#### DevFest Tokyo 2017
+
+
+
 END
