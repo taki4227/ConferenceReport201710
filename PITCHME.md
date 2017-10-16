@@ -21,7 +21,7 @@ DevFest Tokyo 2017
 <span>主催：[東京で活躍している 14 のコミュニティ](https://tokyo.gdgjapan.org/team)</span><br>
 <span>人数：約1,000人</span><br>
 <span>URL：https://tokyo.gdgjapan.org/</span><br>
-<img src="assets/logo_devfest2017.png" class="logo" height="100px" />
+<img src="assets/logo_devfest2017.png" style="float: right;" height="100px" />
 
 ---
 Android Bazaar and Conference 2017 Autumn
@@ -32,5 +32,5 @@ Android Bazaar and Conference 2017 Autumn
 <span>主催：日本Androidの会</span><br>
 <span>人数：約500人</span><br>
 <span>URL：http://abc.android-group.jp/2017a/</span><br>
-<img src="assets/logo_abc2017a.png" class="logo" height="100px" />
+<img src="assets/logo_abc2017a.png" style="float: right;" height="100px" />
 
