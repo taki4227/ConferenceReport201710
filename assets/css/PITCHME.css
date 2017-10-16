@@ -9,3 +9,10 @@
 .reveal span {
     font-size: 80%
 }
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+.reveal section img .logo {
+  float: right;
+}
