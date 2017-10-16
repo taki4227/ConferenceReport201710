@@ -10,5 +10,5 @@ http://abc.android-group.jp/2017a/
 
 ## スライド
 
-こちらから
+こちらから  
 https://gitpitch.com/taki4227/ConferenceReport201710
