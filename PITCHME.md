@@ -7,7 +7,8 @@
 　  
 　　　　　　　　　　　　Naoki Takimoto
 ---
-### 行ったカンファレンス
+今回行ったカンファレンス
+　  
 
 * DevFest Tokyo 2017
 * Android Bazaar and Conference 2017 Autumn<br>（ABC 2017 Autumn）
