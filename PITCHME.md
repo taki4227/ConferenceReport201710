@@ -174,7 +174,7 @@ Note:
 
 ---
 React Nativeアプリをリリースし続けるために、最初に行う8つの取り組み
- [中川幸哉](https://qiita.com/Nkzn)
+　[中川幸哉](https://qiita.com/Nkzn)
 <br>
 
 * React Nativeとは
@@ -199,8 +199,8 @@ applicationId / Bundle Identifier
  * 内部バージョン（これしか使わない）
 
 ---
-FirebaseAnalytics + BigQuery + DataStudio
- [なかむらさとる](https://qiita.com/satoru_mag)
+FirebaseAnalytics + BigQuery + DataStudio<br>
+　[なかむらさとる](https://qiita.com/satoru_mag)
 <br>
 
 * FirebaseAnalyticsって？
@@ -224,12 +224,12 @@ Dremelというクエリエンジン
 * いつでも元気にフルスキャン
 
 ---
-FlutterでAndroid/iOS両対応のアプリ開発
- [najeira](https://qiita.com/najeira)
+FlutterでAndroid/iOS両対応のアプリ開発<br>
+　[najeira](https://qiita.com/najeira)
 <br>
 
 * Flutterとは？
-  * クロスプラットフォーム開発
+  * クロスプラットフォーム
   * 開発言語はDart
   * 自前でUI作成
   * ホットリロード
@@ -241,6 +241,11 @@ Dart
 * Googleによって開発されたウェブ向けのプログラミング言語
 * JavaScriptの代替
 * 競合するTypeScriptがGoogle社内の標準プログラミング言語として承認された
+
+---
+終わり
+<br>
+<img src="assets/dev_fest_place.jpg" />
 
 ---
 ### Android Bazaar and <br>Conference 2017 Autumn
