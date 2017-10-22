@@ -453,22 +453,22 @@ Note:
 <img src="assets/bazaar.png" height="500px" />
 
 ---
-バザール
+バザール全体
 <br>
 <img src="assets/bazaar1.JPG" height="500px" />
 
 ---
-バザール
+みどりクラウド
 <br>
 <img src="assets/bazaar2.JPG" height="500px" />
 
 ---
-バザール
+富士通
 <br>
 <img src="assets/bazaar3.JPG" height="500px" />
 
 ---
-バザール
+PRISM
 <br>
 <img src="assets/bazaar4.JPG" height="500px" />
 
@@ -542,10 +542,7 @@ Note:
 <br>
 <img src="assets/bazaar18.JPG" height="500px" />
 
----
-バザール
-<br>
-<img src="assets/bazaar19.JPG" height="500px" />
+
 
 
 
