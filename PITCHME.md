@@ -35,14 +35,14 @@ DevFest Tokyo 2017
 <br>
 
 <div style="padding-right: 75px; padding-left: 75px;">
-<div>10:00　オープニング</div>
-<div>10:40　クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？</div>
-<div>11:30　大半のウェブサービス/アプリは、Firebaseなら簡単で安いですよ</div>
-<div>12:10　昼休憩</div>
-<div>13:20　ナビゲーションのUIベストプラクティス</div>
-<div>14:10　React Nativeアプリをリリースし続けるために、最初に行う8つの取り組み</div>
-<div>15:00　FirebaseAnalytics + BigQuery + DataStudio</div>
-<div>15:50　FlutterでAndroid/iOS両対応のアプリ開発</div>
+  <div>10:00　オープニング</div>
+  <div>10:40　クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？</div>
+  <div>11:30　大半のウェブサービス/アプリは、Firebaseなら簡単で安いですよ</div>
+  <div>12:10　昼休憩</div>
+  <div>13:20　ナビゲーションのUIベストプラクティス</div>
+  <div>14:10　React Nativeアプリをリリースし続けるために、最初に行う8つの取り組み</div>
+  <div>15:00　FirebaseAnalytics + BigQuery + DataStudio</div>
+  <div>15:50　FlutterでAndroid/iOS両対応のアプリ開発</div>
 </div>
 
 ---
@@ -245,7 +245,7 @@ Dart
 ---
 終わり
 <br>
-<img src="assets/dev_fest_place.jpg" />
+<img src="assets/dev_fest_place.jpg" height="500px" />
 
 ---
 ### Android Bazaar and <br>Conference 2017 Autumn
@@ -271,15 +271,173 @@ Android Bazaar and Conference 2017 Autumn
 <br>
 
 <div style="padding-right: 75px; padding-left: 75px;">
-<div>10:00　オープニング</div>
-<div>10:10　はじめてのボイス・アシスタント<br>　　　---Amazon Echo/Alexa と Google Assistant---</div>
-<div>11:10　Android登場10年目～Androidのイマを魅る～</div>
-<div>12:00　昼休憩</div>
-<div>13:00　Google AR101（TangoからARCore、WebAR）</div>
-<div>14:00　はじめてのActions on Google</div>
-<div>15:00　はじめてのMonaca ～中学校でもできる本格スマホアプリ開発</div>
-<div>16:00　アプリカンではじめるハイブリッドアプリ開発</div>
-<div>17:15　恒例☆秋の大LT大会</div>
+  <div>10:00　オープニング</div>
+  <div>10:10　はじめてのボイス・アシスタント<br>　　　---Amazon Echo/Alexa と Google Assistant---</div>
+  <div>11:10　Android登場10年目～Androidのイマを魅る～</div>
+  <div>12:00　昼休憩</div>
+  <div>13:00　Google AR101（TangoからARCore、WebAR）</div>
+  <div>14:00　はじめてのActions on Google</div>
+  <div>15:00　はじめてのMonaca ～中学校でもできる本格スマホアプリ開発</div>
+  <div>16:00　アプリカンではじめるハイブリッドアプリ開発</div>
 </div>
 
+---
+はじめてのボイス・アシスタント---Amazon Echo/Alexa と Google Assistant---
+　丸山不二夫
+<br>
+
+* Amazon Echo/Alexa
+  * ハードウェアやアプリの機能を呼び出す入出力インタフェース
+  * 機能は限られる
+* Google Assistant
+  * 情報や知識をボイスを通じて提供する(音声検索)
+  * 検索エンジンあって成り立つ
+* Google Now
+  * Google AssistantとのAIを使っているかどうか
+  * Google Assistantと音声検索はほぼ同じ
+    * 検索方法が異なる(Knowledge Graph検索)
+* [発表動画](https://youtu.be/7yyJUv5iQ9c?t=4m27s)
+
+
+Note:
+Alexa
+* あー言えば、こう言う
+* 音声再生、電話、注文、Eメール
+
+Knowledge Graph検索に問題あり
+* 本来、Googleが収集したデータから検索してデータを返す
+* Entity / Propertyモデルで構成されたグラフデータからデータを返す
+* Entity: ○○ / Property: 誕生日 => 値を返す
+* Propertyがなかったらデータを返さない
+
+---
+Android登場10年目～Androidのイマを魅る～<br>
+　嶋是一
+<br>
+
+* 今後のAndroid
+  * IoT市場へ(Android Things)
+  * AI市場へ(Tensor Flow Lite)
+  * XR市場へ(Daydream, ARCore)
+* [発表資料](https://www.slideshare.net/shimayo/android10-androidabc2017a)
+* [発表動画](https://youtu.be/7yyJUv5iQ9c?t=1h9m53s)
+
+Note:
+Android Things
+* 小型マイコンボードなど組み込み向けOS
+* ラズパイに入れられる
+
+Tensor Flow Lite
+* 端末上に用いるニューラルネット
+* Google I/O 2017で発表
+
+Daydream
+* モバイルVR
+ARCore
+* モバイルAR
+* Tangoの空間認識機能の一部をスマホで実現
+
+---
+Google AR101（TangoからARCore、WebAR）<br>
+　eegozilla
+<br>
+
+* ARCoreの特徴
+  * モーショントラッキング
+  * 水平面の検出
+  * 光源の推測
+* Tangoの特徴
+  * モーショントラッキング
+  * 深度認識
+  * 領域学習
+
+---
+Google AR101（TangoからARCore、WebAR）<br>
+
+* ARCoreはTangoより機能としては劣るが普及しやすい
+  * Tangoには追加ハードが必要
+  * ARCoreは内蔵カメラのみ
+* Web AR
+  * ブラウザ上でAR体験ができる
+  * ARCore, ARKitの入った専用のブラウザでthree.ar.js使う
+* [発表動画](https://youtu.be/QVCvRgmMGt8?t=14m41s)
+
+Note:
+モーショントラッキング
+* カメラを使い、スマートフォンの位置や向きや姿勢を計測して、オブジェクトの位置を正確に配置
+水平面の検出
+* 水平面にしかオブジェクトを置けない
+光源の推測
+* 周囲の環境光を推測して影をつける
+* すべて画像解析
+
+深度認識
+* Time of Flight技術で赤外センサーで光線の照射と反射で距離を測定
+* 水平だけでなく、壁でも可能
+領域学習
+* 自分がいる空間と場所を認識
+* GPSの信号が途切れても、自分の位置を追跡可能
+
+---
+はじめてのActions on Google<br>
+　里山南人
+<br>
+
+* Actions on Googleとは
+  * Google Assistantを使ったアプリの開発ができるツール
+* [発表動画](https://youtu.be/7yyJUv5iQ9c?t=3h49m37s)
+
+---
+* アプリ作成に必要なもの
+
+<img src="assets/action_on_google1.png" height="500px" />
+
+---
+* 会話フロー(静的)
+
+<img src="assets/action_on_google2.png" height="500px" />
+
+---
+* 会話フロー(動的)
+
+<img src="assets/action_on_google3.png" height="500px" />
+
+---
+* 会話設計
+
+<img src="assets/action_on_google4.png" height="500px" />
+
+---
+はじめてのMonaca ～中学校でもできる本格スマホアプリ開発<br>
+　岡本雄樹
+<br>
+
+* Monacaとは？
+  * Cordovaを内包したハイブリッドアプリ開発プラットフォーム
+  * HTML5, CSS, JSでアプリ作成が可能
+  * 月額課金(無料枠も少しある)
+* Apache Cordovaとは？
+  * モバイルアプリケーション開発フレームワーク
+  * WebViewブラウザ上で動く
+  * モバイルデバイスのカメラやGPSも使用可能
+
+---
+アプリカンではじめるハイブリッドアプリ開発<br>
+　畠田喜丈
+<br>
+
+* アプリカンとは？
+  * 純国産のハイブリッドアプリフレームワーク
+  * HTML5, CSS, JSでアプリ作成が可能
+  * アプリ単位の固定額課金
+* Monacaとの違い
+  * アプリの中身だけを差し替えることが可能
+  * Apple/Googleの審査なしにリリース可能
+  * 各種SDKがJSで利用可能
+
+Note:
+各種SDK
+* Replo, popinfo
+* GA
+* Felica
 
