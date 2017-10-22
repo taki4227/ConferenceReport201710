@@ -6,7 +6,7 @@
 <br>
 　　　　　　　　　　　　Naoki Takimoto
 ---
-<p style="margin-left: 60px">今回行ったカンファレンス</p>
+<p style="margin-left: 30px">今回行ったカンファレンス</p>
 * DevFest Tokyo 2017
 * Android Bazaar and Conference 2017 Autumn<br>（ABC 2017 Autumn）
 
@@ -53,13 +53,20 @@ DevFest Tokyo 2017
  [@sinmetal](https://qiita.com/sinmetal)
 <br>
 
-* クラウドのメリット
-  * H/Wのイニシャルコストが不要
-  * H/Wのリプレースも不要
-  * H/Wの構成を容易に変更可能
-* クラウドでもH/Wがデータセンターに存在し、日々壊れている
-  * H/Wが壊れたとしても、すぐ別のH/Wが生成され蘇る
-  * 瞬間的にクラウドが壊れることを前提に設計を行う必要あり
+<ul>
+  <li>クラウドのメリット</li>
+  <ul>
+    <li>H/Wのイニシャルコストが不要</li>
+    <li>H/Wのリプレースも不要</li>
+    <li>H/Wの構成を容易に変更可能</li>
+  </ul>
+  <li>クラウドでもH/Wがデータセンターに存在し、日々壊れている</li>
+    <ul>
+      <li>H/Wが壊れたとしても、すぐ別のH/Wが生成され蘇る</li>
+      <li>瞬間的にクラウドが壊れることを前提に設計を行う必要あり</li>
+    </ul>
+  </ul>
+</ul>
 
 ---
 クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？
