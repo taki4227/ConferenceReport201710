@@ -470,12 +470,12 @@ Note:
 ---
 PRISM
 <br>
-<img src="assets/bazaar4.JPG" height="500px" />
+<img src="assets/bazaar4.png" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar5.JPG" height="500px" />
+<img src="assets/bazaar5.png" height="500px" />
 
 ---
 バザール
@@ -490,7 +490,7 @@ PRISM
 ---
 バザール
 <br>
-<img src="assets/bazaar8.JPG" height="500px" />
+<img src="assets/bazaar8.png" height="500px" />
 
 ---
 バザール
@@ -510,7 +510,7 @@ PRISM
 ---
 バザール
 <br>
-<img src="assets/bazaar12.JPG" height="500px" />
+<img src="assets/bazaar12.png" height="500px" />
 
 ---
 バザール
@@ -530,17 +530,17 @@ PRISM
 ---
 バザール
 <br>
-<img src="assets/bazaar16.JPG" height="500px" />
+<img src="assets/bazaar16.png" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar17.JPG" height="500px" />
+<img src="assets/bazaar17.png" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar18.JPG" height="500px" />
+<img src="assets/bazaar18.png" height="500px" />
 
 
 
