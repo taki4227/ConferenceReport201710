@@ -28,10 +28,7 @@ DevFest Tokyo 2017
 <img src="assets/logo_devfest2017.png" style="float: right;" height="100px" />
 
 ---
-### レポート
-
----
-スケジュール
+個人スケジュール
 <br>
 
 <div style="padding-right: 75px; padding-left: 75px;">
@@ -62,6 +59,19 @@ Android Bazaar and Conference 2017 Autumn
 <img src="assets/logo_abc2017a.png" style="float: right;" height="100px" />
 
 ---
-### レポート
+個人スケジュール
+<br>
+
+<div style="padding-right: 75px; padding-left: 75px;">
+<div>10:00　オープニング</div>
+<div>10:10　はじめてのボイス・アシスタント ---Amazon Echo/Alexa と Google Assistant---</div>
+<div>11:10　Android登場10年目～Androidのイマを魅る～</div>
+<div>12:00　昼休憩</div>
+<div>13:00　Google AR101（TangoからARCore、WebAR）</div>
+<div>14:00　はじめてのActions on Google</div>
+<div>15:00　はじめてのMonaca ～中学校でもできる本格スマホアプリ開発</div>
+<div>16:00　アプリカンではじめるハイブリッドアプリ開発</div>
+<div>17:15　恒例☆秋の大LT大会</div>
+</div>
 
 
