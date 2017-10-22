@@ -288,7 +288,7 @@ Android Bazaar and Conference 2017 Autumn
 <br>
 
 * Amazon Echo/Alexa
-  * ハードウェアやアプリの機能を呼び出す入出力インタフェース
+  * ハードウェアやアプリの機能を呼び出す
   * 機能は限られる
 * Google Assistant
   * 情報や知識をボイスを通じて提供する(音声検索)
@@ -312,7 +312,7 @@ Knowledge Graph検索に問題あり
 * Propertyがなかったらデータを返さない
 
 ---
-Android登場10年目～Androidのイマを魅る～
+Android登場10年目<br>～Androidのイマを魅る～
 　嶋是一
 <br>
 
