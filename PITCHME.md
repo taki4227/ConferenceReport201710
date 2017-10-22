@@ -585,10 +585,9 @@ Note:
 * IoTブロックとスマホを無線で繋げてセンサーが使える
 
 ---
-バザール
+IoT ブロック　[活用例](https://recipe.meshprj.com/recipe)
 <br>
 <img src="assets/bazaar19.png" height="500px" />
-[活用例](https://recipe.meshprj.com/recipe)
 
 Note:
 * 左上：GPIO
