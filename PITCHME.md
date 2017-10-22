@@ -57,7 +57,7 @@ DevFest Tokyo 2017
 
 ---
 クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？
- [@sinmetal](https://qiita.com/sinmetal)
+　[sinmetal](https://qiita.com/sinmetal)
 <br>
 
 * クラウドのメリット
@@ -99,7 +99,7 @@ Note:
 
 ---
 大半のウェブサービス/アプリは、Firebaseなら簡単で安いですよ
- [神楽坂やちま](https://qiita.com/Yatima)
+　[神楽坂やちま](https://qiita.com/Yatima)
 <br>
 
 * Firebaseは真のサーバレス
@@ -131,12 +131,12 @@ Note:
 ---
 昼休憩
 <br>
-<img src="assets/lunch_time.png" height="350px" />
+<img src="assets/lunch_time.png" height="440px" />
 
 
 ---
-ナビゲーションのUIベストプラクティス
- 鈴木拓生
+ナビゲーションのUIベストプラクティス<br>
+　鈴木拓生
 <br>
 
 * 画面のヒエラルキーを考えることが大切
@@ -178,7 +178,7 @@ React Nativeアプリをリリースし続けるために、最初に行う8つ�
 <br>
 
 * React Nativeとは
-* JSエンジニアはアプリエンジニアの"当たり前"でつまずく
+* JSエンジニアはアプリエンジニアの"当たり前"で躓く
   * Gradle、XCode
   * Google Play Stpre、iTunes Connect
 * 知っておきたいTips
@@ -236,7 +236,7 @@ FlutterでAndroid/iOS両対応のアプリ開発
   * まだアルファ版
 * [発表資料](https://www.slideshare.net/najeira/flutterandroidios)
 
-:Note
+Note:
 Dart
 * Googleによって開発されたウェブ向けのプログラミング言語
 * JavaScriptの代替
