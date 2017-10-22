@@ -47,17 +47,13 @@ DevFest Tokyo 2017
 
 ---
 オープニング
-
-<p style="text-align: center;">
-  <img src="assets/dev_fest_opening.jpg" />
-</p>
+<br>
+<img src="assets/dev_fest_opening.jpg" />
 
 ---
 オープニング
-
-<p style="text-align: center;">
-  <img src="assets/opening_me.jpg" />
-</p>
+<br>
+<img src="assets/opening_me.jpg" />
 
 ---
 クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？
@@ -135,9 +131,8 @@ Note:
 ---
 昼休憩
 <br>
-<p>
-  <img style="text-align: center;" src="assets/lunch_time" />
-</p>
+<img src="assets/lunch_time" />
+
 
 ---
 ナビゲーションのUIベストプラクティス
