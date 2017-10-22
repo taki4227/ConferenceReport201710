@@ -9,9 +9,9 @@
     padding-right: 75px;
     padding-left: 75px;
 }
-.reveal .slides div {
+.reveal .slides div span {
     text-align: left;
-    font-size: 60%
+    font-size: 70%
 }
 .reveal section img {
   border: 0;
