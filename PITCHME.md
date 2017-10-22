@@ -72,14 +72,22 @@ DevFest Tokyo 2017
 クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？
 <br>
 
-* クラウドを活かすには？
-  * 可用性(Availability)をあげる
-    * リトライ
-    * リクリエイト
-  * パフォーマンスを上げる
-    * 非同期処理(Queue)
-    * 分散処理
-* 資料：https://goo.gl/X54o2S
+<ul>
+  <li>クラウドを活かすには？</li>
+  <ul>
+    <li>可用性(Availability)をあげる</li>
+    <ul>
+      <li>リトライ</li>
+      <li>リクリエイト</li>
+    </ul>
+    <li>パフォーマンスを上げる</li>
+    <ul>
+      <li>非同期処理(Queue)</li>
+      <li>分散処理</li>
+    </ul>
+  </ul>
+  <li>資料：https://goo.gl/X54o2S</li>
+</ul>
 
 Note:
 test
