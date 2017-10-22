@@ -455,97 +455,97 @@ Note:
 ---
 バザール
 <br>
-<img src="assets/bazaar1.png" height="500px" />
+<img src="assets/bazaar1.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar2.png" height="500px" />
+<img src="assets/bazaar2.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar3.png" height="500px" />
+<img src="assets/bazaar3.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar4.png" height="500px" />
+<img src="assets/bazaar4.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar5.png" height="500px" />
+<img src="assets/bazaar5.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar6.png" height="500px" />
+<img src="assets/bazaar6.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar7.png" height="500px" />
+<img src="assets/bazaar7.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar8.png" height="500px" />
+<img src="assets/bazaar8.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar9.png" height="500px" />
+<img src="assets/bazaar9.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar10.png" height="500px" />
+<img src="assets/bazaar10.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar11.png" height="500px" />
+<img src="assets/bazaar11.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar12.png" height="500px" />
+<img src="assets/bazaar12.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar13.png" height="500px" />
+<img src="assets/bazaar13.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar14.png" height="500px" />
+<img src="assets/bazaar14.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar15.png" height="500px" />
+<img src="assets/bazaar15.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar16.png" height="500px" />
+<img src="assets/bazaar16.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar17.png" height="500px" />
+<img src="assets/bazaar17.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar18.png" height="500px" />
+<img src="assets/bazaar18.JPG" height="500px" />
 
 ---
 バザール
 <br>
-<img src="assets/bazaar19.png" height="500px" />
+<img src="assets/bazaar19.JPG" height="500px" />
 
 
 
