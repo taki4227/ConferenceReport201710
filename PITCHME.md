@@ -34,7 +34,7 @@ DevFest Tokyo 2017
 スケジュール
 <br>
 
-<div>
+<div style="padding-right: 75px; padding-left: 75px;">
 10:00 オープニング<br>
 10:40 クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？<br>
 11:30 大半のウェブサービス/アプリは，Firebaseなら簡単で安いですよ<br>
