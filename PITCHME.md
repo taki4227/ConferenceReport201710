@@ -35,14 +35,14 @@ DevFest Tokyo 2017
 <br>
 
 <div>
-<span>10:00</span><span>　オープニング</span><br>
-<span>10:40</span><span>　クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？</span><br>
-<span>11:30</span><span>　大半のウェブサービス/アプリは，Firebaseなら簡単で安いですよ</span><br>
-<span>12:10</span><span>　昼休憩</span><br>
-<span>13:20</span><span>　ナビゲーションのUIベストプラクティス</span><br>
-<span>14:10</span><span>　React Nativeアプリをリリースし続けるために、最初に行う8つの取り組み</span><br>
-<span>15:00</span><span>　FirebaseAnalytics + BigQuery + DataStudio</span><br>
-<span>15:50</span><span>　FlutterでAndroid/iOS両対応のアプリ開発</span>
+10:00 オープニング<br>
+10:40 クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？<br>
+11:30 大半のウェブサービス/アプリは，Firebaseなら簡単で安いですよ<br>
+12:10 昼休憩<br>
+13:20 ナビゲーションのUIベストプラクティス<br>
+14:10 React Nativeアプリをリリースし続けるために、最初に行う8つの取り組み<br>
+15:00 FirebaseAnalytics + BigQuery + DataStudio<br>
+15:50 FlutterでAndroid/iOS両対応のアプリ開発
 </div>
 
 ---
