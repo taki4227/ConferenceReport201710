@@ -37,7 +37,7 @@ DevFest Tokyo 2017
 <div style="padding-right: 75px; padding-left: 75px;">
 <div>10:00　オープニング</div>
 <div>10:40　クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？</div>
-<div>11:30　大半のウェブサービス/アプリは，Firebaseなら簡単で安いですよ</div>
+<div>11:30　大半のウェブサービス/アプリは、Firebaseなら簡単で安いですよ</div>
 <div>12:10　昼休憩</div>
 <div>13:20　ナビゲーションのUIベストプラクティス</div>
 <div>14:10　React Nativeアプリをリリースし続けるために、最初に行う8つの取り組み</div>
@@ -49,6 +49,32 @@ DevFest Tokyo 2017
 オープニング
 
 <img src="assets/dev_fest_opening.jpg" />
+
+---
+クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？
+ [@sinmetal](https://qiita.com/sinmetal)
+<br>
+
+* クラウドのメリット
+  * H/Wのイニシャルコストが不要
+  * H/Wのリプレースも不要
+  * H/Wの構成を容易に変更可能
+* クラウドでもH/Wがデータセンターに存在し、日々壊れている
+  * H/Wが壊れたとしても、すぐ別のH/Wが生成され蘇る
+  * 瞬間的にクラウドが壊れることを前提に設計を行う必要あり
+
+---
+* クラウドを活かすには？
+  * 可用性(Availability)をあげる
+    * リトライ
+    * リクリエイト
+  * パフォーマンスを上げる
+    * 非同期処理(Queue)
+    * 分散処理
+* 資料：https://goo.gl/X54o2S
+
+Note:
+test
 
 ---
 ### Android Bazaar and <br>Conference 2017 Autumn
@@ -75,7 +101,7 @@ Android Bazaar and Conference 2017 Autumn
 
 <div style="padding-right: 75px; padding-left: 75px;">
 <div>10:00　オープニング</div>
-<div>10:10　はじめてのボイス・アシスタント ---Amazon Echo/Alexa と Google Assistant---</div>
+<div>10:10　はじめてのボイス・アシスタント<br>　　　---Amazon Echo/Alexa と Google Assistant---</div>
 <div>11:10　Android登場10年目～Androidのイマを魅る～</div>
 <div>12:00　昼休憩</div>
 <div>13:00　Google AR101（TangoからARCore、WebAR）</div>
