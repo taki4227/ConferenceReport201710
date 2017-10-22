@@ -131,7 +131,7 @@ Note:
 ---
 昼休憩
 <br>
-<img src="assets/lunch_time.png" />
+<img src="assets/lunch_time.png" height="350px" />
 
 
 ---
