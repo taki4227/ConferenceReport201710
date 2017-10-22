@@ -1,16 +1,16 @@
-.reveal .slides p {
-    text-align: left;
-    padding-right: 75px;
-    padding-left: 75px;
-}
 .reveal ul {
     padding-left: 75px;
 }
 .reveal span {
     font-size: 80%
 }
-.reveal .slides div {
-    font-size: 60%
+.reveal .slides p, div {
+    text-align: left;
+    padding-right: 75px;
+    padding-left: 75px;
+}
+.reveal .slides div span {
+    font-size: 70%
 }
 .reveal section img {
   border: 0;
