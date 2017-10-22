@@ -57,7 +57,7 @@ Android Bazaar and Conference 2017 Autumn
 <span>主催：日本Androidの会</span><br>
 <span>人数：約500人</span><br>
 <span>内容：[タイムテーブル](http://abc.android-group.jp/2017a/timetables/)</span><br>
-<span>　　　(http://abc.android-group.jp/2017a/bazaar/)</span><br>
+<span>　　　[バザール](http://abc.android-group.jp/2017a/bazaar/)</span><br>
 <span>URL：http://abc.android-group.jp/2017a/</span><br>
 <img src="assets/logo_abc2017a.png" style="float: right;" height="100px" />
 
