@@ -320,13 +320,12 @@ Android登場10年目<br>～Androidのイマを魅る～
   * 1990年代：インターネット
   * 2000年代：モバイルコンテンツ
   * 2010年代：スマホアプリ
-  * 2020年代；スマホでWebアプリ？
+  * 2020年代：スマホでWebアプリ？
 * 今後のAndroid
   * IoT市場へ(Android Things)
   * AI市場へ(Tensor Flow Lite)
   * XR市場へ(Daydream, ARCore)
-* [発表資料](https://www.slideshare.net/shimayo/android10-androidabc2017a)
-* [発表動画](https://youtu.be/7yyJUv5iQ9c?t=1h9m53s)
+* [発表資料](https://www.slideshare.net/shimayo/android10-androidabc2017a)、[発表動画](https://youtu.be/7yyJUv5iQ9c?t=1h9m53s)
 
 Note:
 Android Things
