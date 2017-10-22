@@ -9,7 +9,7 @@
     padding-right: 75px;
     padding-left: 75px;
 }
-.reveal .slides div span {
+.reveal .slides div div {
     text-align: left;
     font-size: 70%
 }
