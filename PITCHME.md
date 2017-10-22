@@ -316,6 +316,11 @@ Android登場10年目<br>～Androidのイマを魅る～
 　嶋是一
 <br>
 
+* 10年周期のイノベーション
+  * 1990年代：インターネット
+  * 2000年代：モバイルコンテンツ
+  * 2010年代：スマホアプリ
+  * 2020年代；スマホでWebアプリ？
 * 今後のAndroid
   * IoT市場へ(Android Things)
   * AI市場へ(Tensor Flow Lite)
