@@ -28,6 +28,9 @@ DevFest Tokyo 2017
 <img src="assets/logo_devfest2017.png" style="float: right;" height="100px" />
 
 ---
+### レポート
+
+---
 個人スケジュール
 <br>
 
@@ -41,6 +44,11 @@ DevFest Tokyo 2017
 <div>15:00　FirebaseAnalytics + BigQuery + DataStudio</div>
 <div>15:50　FlutterでAndroid/iOS両対応のアプリ開発</div>
 </div>
+
+---
+#### レポート
+<br>
+<img src="assets/dev_fest_opening.jpg" />
 
 ---
 ### Android Bazaar and <br>Conference 2017 Autumn
@@ -57,6 +65,9 @@ Android Bazaar and Conference 2017 Autumn
 <span>　　　[バザール](http://abc.android-group.jp/2017a/bazaar/)</span><br>
 <span>URL：http://abc.android-group.jp/2017a/</span><br>
 <img src="assets/logo_abc2017a.png" style="float: right;" height="100px" />
+
+---
+### レポート
 
 ---
 個人スケジュール
