@@ -458,9 +458,16 @@ Note:
 <img src="assets/bazaar1.JPG" height="500px" />
 
 ---
+企業ブース
+
+---
 みどりクラウド
 <br>
 <img src="assets/bazaar2.JPG" height="500px" />
+
+Note:
+* IoT
+* 自動的に圃場の環境を計測、記録し、そのデータを離れた所からいつでも確認することができる圃場モニタリングシステム
 
 ---
 富士通
@@ -472,77 +479,122 @@ PRISM
 <br>
 <img src="assets/bazaar4.png" height="500px" />
 
+Note:
+* 超小型IoTセンサー(5.2mm ☓ 9.0mm)
+* 低消費電力なので、ボタン電池で1年以上稼働
+* 加速度/地磁気/温度/湿度/気圧/照度/UVの7種類のデータを計測
+
 ---
-バザール
+RemoteRelay Solutions
 <br>
 <img src="assets/bazaar5.png" height="500px" />
 
+Note:
+* スマートグラスで通話やカメラ映像を共有する
+* 遠隔での作業指示をサポート
+
 ---
-バザール
+コミュニティ団体
+
+---
+日本Androidの会 島原支部
 <br>
 <img src="assets/bazaar6.JPG" height="500px" />
 
 ---
-バザール
+そうめんもらいました
 <br>
 <img src="assets/bazaar7.JPG" height="500px" />
 
 ---
-バザール
+体験・ワークショップ
+
+---
+ARのワークショップ
 <br>
 <img src="assets/bazaar8.png" height="500px" />
 
 ---
-バザール
+VR体験
 <br>
 <img src="assets/bazaar9.JPG" height="500px" />
 
+:Note
+* Steam VR ヘッドマウンドディスプレイ(台湾 Valve)
+* MR
+* ACWDEEPという会社 映像は映画やCMのCGなど(銀魂、進撃の巨人など)
+
 ---
-バザール
+ドローン体験
 <br>
 <img src="assets/bazaar10.JPG" height="500px" />
 
 ---
-バザール
+ドローン体験
 <br>
 <img src="assets/bazaar11.JPG" height="500px" />
 
 ---
-バザール
+ドローン体験
 <br>
 <img src="assets/bazaar12.png" height="500px" />
 
 ---
-バザール
+視覚障害者体験
 <br>
-<img src="assets/bazaar13.JPG" height="500px" />
+<img src="assets/bazaar13.png" height="500px" />
+
+Note:
+* 色盲、視野狭窄などをAR体験
 
 ---
-バザール
+子供向けプログラミング
+
+---
+教育版レゴ
 <br>
 <img src="assets/bazaar14.JPG" height="500px" />
 
+Note:
+* レゴで組み立てたロボットをプログラミングして動かす
+* アイコンを使って、ドラック＆ドロップで、簡単にプログラミング
+* 3〜6年生向け
+
 ---
-バザール
+プログラミング教育×ドローン、ロボット
 <br>
 <img src="assets/bazaar15.JPG" height="500px" />
 
 ---
-バザール
+ブロックでプログラミング
 <br>
-<img src="assets/bazaar16.png" height="500px" />
+<img src="assets/bazaar16.JPG" height="500px" />
 
 ---
-バザール
+ブロックでプログラミング
 <br>
 <img src="assets/bazaar17.png" height="500px" />
 
 ---
-バザール
+IoT ブロック
 <br>
 <img src="assets/bazaar18.png" height="500px" />
 
+Note:
+* MESHというIoTブロック
+* IoTブロックとスマホを無線で繋げてセンサーが使える
 
+---
+バザール
+<br>
+<img src="assets/bazaar19.png" height="500px" />
+[活用例](https://recipe.meshprj.com/recipe)
 
+Note:
+* 左上：GPIO
+* 右上：ボタン
+* 左下：温度・湿度
+* 右下：明るさ
+* 他にも、人感・LED・動きなどある
 
 
