@@ -9,6 +9,9 @@
 .reveal span {
     font-size: 80%
 }
+.reveal div {
+    font-size: 60%
+}
 .reveal section img {
   border: 0;
   box-shadow: none;
