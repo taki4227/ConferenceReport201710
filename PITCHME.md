@@ -47,14 +47,16 @@ DevFest Tokyo 2017
 
 ---
 オープニング
-<p>
-  <img style="text-align: center;" src="assets/dev_fest_opening.jpg" />
+
+<p style="text-align: center;">
+  <img src="assets/dev_fest_opening.jpg" />
 </p>
 
 ---
 オープニング
-<p>
-  <img style="text-align: center;" src="assets/opening_me.jpg" />
+
+<p style="text-align: center;">
+  <img src="assets/opening_me.jpg" />
 </p>
 
 ---
