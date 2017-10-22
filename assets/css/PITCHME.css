@@ -4,12 +4,12 @@
 .reveal span {
     font-size: 80%
 }
-.reveal .slides p, .reveal .slides section.present div, .reveal .slides section.future div {
+.reveal .slides p, .reveal .slides section div {
     text-align: left;
     padding-right: 75px;
     padding-left: 75px;
 }
-.reveal .slides section.present div span, .reveal .slides section.future div {
+.reveal .slides section div span {
     font-size: 70%
 }
 .reveal section img {
