@@ -46,8 +46,8 @@ DevFest Tokyo 2017
 </div>
 
 ---
-#### レポート
-<br>
+オープニング
+
 <img src="assets/dev_fest_opening.jpg" />
 
 ---
