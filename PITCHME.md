@@ -282,7 +282,8 @@ Android Bazaar and Conference 2017 Autumn
 </div>
 
 ---
-はじめてのボイス・アシスタント---Amazon Echo/Alexa と Google Assistant---
+はじめてのボイス・アシスタント<br>
+---Amazon Echo/AlexaとGoogle Assistant---
 　丸山不二夫
 <br>
 
@@ -311,7 +312,7 @@ Knowledge Graph検索に問題あり
 * Propertyがなかったらデータを返さない
 
 ---
-Android登場10年目～Androidのイマを魅る～<br>
+Android登場10年目～Androidのイマを魅る～
 　嶋是一
 <br>
 
@@ -338,8 +339,8 @@ ARCore
 * Tangoの空間認識機能の一部をスマホで実現
 
 ---
-Google AR101（TangoからARCore、WebAR）<br>
-　eegozilla
+Google AR101<br>
+（TangoからARCore、WebAR）eegozilla
 <br>
 
 * ARCoreの特徴
@@ -352,7 +353,8 @@ Google AR101（TangoからARCore、WebAR）<br>
   * 領域学習
 
 ---
-Google AR101（TangoからARCore、WebAR）<br>
+Google AR101<br>
+（TangoからARCore、WebAR）
 
 * ARCoreはTangoより機能としては劣るが普及しやすい
   * Tangoには追加ハードが必要
@@ -379,7 +381,7 @@ Note:
 * GPSの信号が途切れても、自分の位置を追跡可能
 
 ---
-はじめてのActions on Google<br>
+はじめてのActions on Google
 　里山南人
 <br>
 
@@ -408,7 +410,7 @@ Note:
 <img src="assets/action_on_google4.png" height="500px" />
 
 ---
-はじめてのMonaca ～中学校でもできる本格スマホアプリ開発<br>
+はじめてのMonaca ～中学校でもできる本格スマホアプリ開発
 　岡本雄樹
 <br>
 
@@ -422,7 +424,7 @@ Note:
   * モバイルデバイスのカメラやGPSも使用可能
 
 ---
-アプリカンではじめるハイブリッドアプリ開発<br>
+アプリカンではじめるハイブリッドアプリ開発
 　畠田喜丈
 <br>
 
