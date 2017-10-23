@@ -523,7 +523,8 @@ VR体験
 <img src="assets/bazaar9.JPG" height="500px" />
 
 :Note
-* Steam VR ヘッドマウンドディスプレイ(台湾 Valve)
+* ヘッドマウンドディスプレイ(Oculus Rift)
+* SteamVR ゲームプラットフォーム (台湾 Valve)
 * MR
 * ACWDEEPという会社 映像は映画やCMのCGなど(銀魂、進撃の巨人など)
 
