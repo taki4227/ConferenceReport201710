@@ -522,7 +522,7 @@ VR体験
 <br>
 <img src="assets/bazaar9.JPG" height="500px" />
 
-:Note
+Note:
 * ヘッドマウンドディスプレイ(Oculus Rift)
 * SteamVR ゲームプラットフォーム (台湾 Valve)
 * MR
