@@ -4,7 +4,7 @@
 
 <br>
 <br>
-　　　　　　　　　　　　Naoki Takimoto
+　　　　　　　　　　　　taki4227
 ---
 今回行ったカンファレンス
 <br>
